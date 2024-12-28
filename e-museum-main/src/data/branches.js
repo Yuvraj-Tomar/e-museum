@@ -1,0 +1,133 @@
+export const statuteData = [
+  {
+    id: 1,
+    name: "Ancient Artifacts",
+    description: "Explore ancient artifacts from various civilizations.",
+    location: "Hall A",
+    details: "Detailed information about ancient artifacts.",
+    image: "https://images.snapwi.re/7788/5edb64c0cc7ca05a52851d06.w800.jpg",
+    latitude: 37.7749,
+    longitude: -122.4194,
+  },
+  {
+    id: 2,
+    name: "Renaissance Art",
+    description: "Discover the masterpieces of the Renaissance period.",
+    location: "Hall B",
+    details: "Detailed information about Renaissance art.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/1c/c8/7e/indira-gandhi-rashtriya.jpg",
+    latitude: 40.7128,
+    longitude: -74.006,
+  },
+  {
+    id: 3,
+    name: "Our Culture",
+    description: "Experience the creativity of modern artists.",
+    location: "Hall C",
+    details: "Detailed information about modern art.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/38/1e/94/tribal-museum.jpg",
+    latitude: 34.0522,
+    longitude: -118.2437,
+  },
+  {
+    id: 4,
+    name: "Indian view",
+    description: "Delve into the world of Impressionism.",
+    location: "Hall D",
+    details: "Detailed information about Impressionist paintings.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/cd/0e/e9/indira-gandhi-rashtriya.jpg",
+    latitude: 48.8566,
+    longitude: 2.3522,
+  },
+  {
+    id: 5,
+    name: "Impressionist Paintings",
+    description: "Marvel at sculptures from different eras.",
+    location: "Hall E",
+    details: "Detailed information about various sculptures.",
+    image:
+      "https://images.saymedia-content.com/.image/t_share/MTc1MjY4OTc0OTQ5MzExODcw/art-forms-of-india-that-have-survived-generations.jpg",
+    latitude: 51.5074,
+    longitude: -0.1278,
+  },
+  {
+    id: 6,
+    name: "Photography",
+    description: "Explore the art of photography.",
+    location: "Hall F",
+    details: "Detailed information about photography.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/02/71/23/d9/filename-x14c1127-jpg.jpg",
+    latitude: 35.6895,
+    longitude: 139.6917,
+  },
+  {
+    id: 7,
+    name: "Contemporary Art",
+    description: "Experience the latest trends in contemporary art.",
+    location: "Hall G",
+    details: "Detailed information about contemporary art.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/38/1e/89/tribal-museum.jpg",
+    latitude: -33.8688,
+    longitude: 151.2093,
+  },
+  {
+    id: 8,
+    name: "Medieval Art",
+    description: "Discover art from the Middle Ages.",
+    location: "Hall H",
+    details: "Detailed information about medieval art.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/1e/ed/b5/igrms.jpg",
+    latitude: 41.9028,
+    longitude: 12.4964,
+  },
+  {
+    id: 9,
+    name: "Asian Art",
+    description: "Explore the rich art traditions of Asia.",
+    location: "Hall I",
+    details: "Detailed information about Asian art.",
+    image:
+      "https://img.freepik.com/premium-photo/ancient-books-museum_266732-9187.jpg",
+    latitude: 39.9042,
+    longitude: 116.4074,
+  },
+  {
+    id: 10,
+    name: "African Art",
+    description: "Discover the diverse art of Africa.",
+    location: "Hall J",
+    details: "Detailed information about African art.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/3c/3a/74/20181101-134746-largejpg.jpg",
+    latitude: -1.2921,
+    longitude: 36.8219,
+  },
+  {
+    id: 11,
+    name: "Native Indian Art",
+    description: "Explore the art of Native American cultures.",
+    location: "Hall K",
+    details: "Detailed information about Native indian art.",
+    image:
+      "https://th.bing.com/th/id/OIP.JMNKUNmJuMEZdmdlPmz-YAAAAA?rs=1&pid=ImgDetMain",
+    latitude: 34.0522,
+    longitude: -118.2437,
+  },
+  {
+    id: 12,
+    name: "Musical Instruments",
+    description: "Experience the unique art of Oceania.",
+    location: "Hall L",
+    details: "Detailed information about Musical Instrument.",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/cd/0f/1c/indira-gandhi-rashtriya.jpg",
+    latitude: -37.8136,
+    longitude: 144.9631,
+  },
+];
